@@ -3,3 +3,4 @@
 patches/
 config.def.h
 *.orig
+st
