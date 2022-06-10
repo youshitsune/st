@@ -1,0 +1,5 @@
+*.rej
+*.o
+patches/
+config.def.h
+*.orig
